@@ -1,4 +1,4 @@
-# Tarea 1: Conversos de números entre sistemas numéricos
+# Tarea 1: Conversor de números entre sistemas numéricos
 		
 ## Alumnos: 
 	Cervantes García Eduardo
