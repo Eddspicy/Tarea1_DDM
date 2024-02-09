@@ -1,6 +1,6 @@
 # Tarea 1: Conversos de números entre sistemas numéricos
 		
-	## Alumnos: 
+## Alumnos: 
  	Cervantes García Eduardo
 	Hernández Ramirez Miguel Ángel
         Pérez Uribe José Alberto
